@@ -1,6 +1,5 @@
 import pyrebase
-
-var firebaseConfig = {
+config = {
     apiKey: "AIzaSyDsRWUKzPSNBDWWScXH0nL0n3Sn_CD20xc",
     authDomain: "fir-project-f8aa4.firebaseapp.com",
     databaseURL: "https://fir-project-f8aa4.firebaseio.com",
